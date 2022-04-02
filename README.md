@@ -33,13 +33,6 @@ The machine needs to be prepared. In CI this is done using `molecule/default/pre
 ```
 
 
-## [Role Variables](#role-variables)
-
-The default values for the variables are set in `defaults/main.yml`:
-```yaml
----
-# defaults file for container_docs
-```
 
 ## [Requirements](#requirements)
 
