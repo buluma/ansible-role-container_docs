@@ -1,10 +1,9 @@
 ---
-# This is an example playbook to execute Ansible tests.
-
 - name: Verify
   hosts: all
-  gather_facts: false
+  become: yes
+  gather_facts: no
+
   tasks:
-  - name: Example assertion
-    assert:
-      that: true
+    - name: check if connection still works
+      ansible.builtin.ping:
