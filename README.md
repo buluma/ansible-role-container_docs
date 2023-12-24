@@ -1,10 +1,10 @@
-# [Ansible role container_docs](#container_docs)
+# Ansible role [container_docs](https://galaxy.ansible.com/ui/standalone/roles/buluma/container_docs/documentation)
 
 Change package manager configuration to install docs and manpages.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-container_docs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-container_docs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-container_docs.svg)](https://github.com/buluma/ansible-role-container_docs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-container_docs.svg)](https://github.com/buluma/ansible-role-container_docs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-container_docs.svg)](https://github.com/buluma/ansible-role-container_docs/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-container_docs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-container_docs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-container_docs.svg)](https://github.com/buluma/ansible-role-container_docs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-container_docs.svg)](https://github.com/buluma/ansible-role-container_docs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-container_docs.svg)](https://github.com/buluma/ansible-role-container_docs/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/container_docs)](https://galaxy.ansible.com/ui/standalone/roles/buluma/container_docs/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -85,13 +85,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-container_docs/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-container_docs/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
