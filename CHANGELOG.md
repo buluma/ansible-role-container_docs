@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.3](https://github.com/buluma/ansible-role-container_docs/tree/v0.1.3) (2023-12-24)
+
+[Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v0.1.2...v0.1.3)
+
 ## [v0.1.2](https://github.com/buluma/ansible-role-container_docs/tree/v0.1.2) (2023-11-21)
 
 [Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v0.1.1...v0.1.2)
