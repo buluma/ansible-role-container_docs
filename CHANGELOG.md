@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.3.0](https://github.com/buluma/ansible-role-container_docs/tree/v0.3.0) (2024-01-10)
+
+[Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v0.2.0...v0.3.0)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#11](https://github.com/buluma/ansible-role-container_docs/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v0.2.0](https://github.com/buluma/ansible-role-container_docs/tree/v0.2.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v0.1.4...v0.2.0)
