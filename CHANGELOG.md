@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#9](https://github.com/buluma/ansible-role-container_docs/issues/9)
+- rebuild action [\#8](https://github.com/buluma/ansible-role-container_docs/issues/8)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#27](https://github.com/buluma/ansible-role-container_docs/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
