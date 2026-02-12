@@ -5,4 +5,4 @@
 repository:
   description: Change package manager configuration to install docs and manpages.
   homepage: https://buluma.github.io/
-  topics: containerdocs, ansible, molecule, tox, playbook
+  topics: containerdocs, ansible, molecule, playbook
