@@ -25,8 +25,8 @@
 - name: Unset excludes /usr/share/doc in dpkg.cfg.d/excludes
   ansible.builtin.replace:
     path: /etc/dpkg/dpkg.cfg.d/excludes
-    regexp: '^(path-exclude=.*)'
-    replace: '#\1'
+    regexp: "^(path-exclude=.*)"
+    replace: "#\\1"
     mode: "0640"
   when:
     - ansible_pkg_mgr == "apt"
