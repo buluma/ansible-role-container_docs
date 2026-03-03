@@ -9,6 +9,11 @@ on:
   push:
     branches:
       - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
   schedule:
     - cron: '5 3 3 * *'
 
@@ -35,21 +40,25 @@ jobs:
       fail-fast: false
       matrix:
         distro:
-          - image: "alpine"
-            tag: "latest"
+          - image: "docker-molecule-images"
+            tag: "alpine-openrc_latest"
+          - image: "docker-molecule-images"
+            tag: "amazonlinux2023"
           - image: "enterpriselinux"
             tag: "latest"
-          - image: "debian"
-            tag: "latest"
-          - image: "debian"
+          - image: "docker-molecule-images"
+            tag: "debian_latest"
+          - image: "docker-molecule-images"
             tag: "bookworm"
-          - image: "debian"
-            tag: "bullseye"
-          - image: "fedora"
-            tag: "latest"
-          - image: "ubuntu"
-            tag: "latest"
-          - image: "ubuntu"
+          - image: "docker-molecule-images"
+            tag: "fedora_latest"
+          - image: "docker-molecule-images"
+            tag: "fedora45"
+          - image: "docker-molecule-images"
+            tag: "opensuse-tumbleweed"
+          - image: "docker-molecule-images"
+            tag: "ubuntu_latest"
+          - image: "docker-molecule-images"
             tag: "jammy"
     steps:
       - name: checkout
