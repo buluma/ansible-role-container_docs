@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-container_docs/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v26.6.0...HEAD)
+
+**Closed issues:**
+
+- Developer must implement and populate 'server' variable [\#1](https://github.com/buluma/ansible-role-container_docs/issues/1)
+
 ## [v26.6.0](https://github.com/buluma/ansible-role-container_docs/tree/v26.6.0) (2026-06-14)
 
 [Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v24.3.31...v26.6.0)
