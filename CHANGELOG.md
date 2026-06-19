@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-container_docs/tree/HEAD)
+## [v26.6.1](https://github.com/buluma/ansible-role-container_docs/tree/v26.6.1) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v26.6.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-container_docs/compare/v26.6.0...v26.6.1)
 
 **Closed issues:**
 
